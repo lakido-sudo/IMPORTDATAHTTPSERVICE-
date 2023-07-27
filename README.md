@@ -11,7 +11,7 @@ Func:
   3. Filter columns
   4. Open file
 
-Second func:
+secondary func:
   1. Test code
   2. Authorization user
   3. Delete file from database
